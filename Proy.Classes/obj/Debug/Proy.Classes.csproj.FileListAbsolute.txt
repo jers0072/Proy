@@ -1,0 +1,5 @@
+c:\Users\esramirez\Documents\Visual Studio 2015\Projects\Proy\Proy.Classes\bin\Debug\Proy.Classes.dll
+c:\Users\esramirez\Documents\Visual Studio 2015\Projects\Proy\Proy.Classes\bin\Debug\Proy.Classes.pdb
+c:\Users\esramirez\Documents\Visual Studio 2015\Projects\Proy\Proy.Classes\obj\Debug\Proy.Classes.csprojResolveAssemblyReference.cache
+c:\Users\esramirez\Documents\Visual Studio 2015\Projects\Proy\Proy.Classes\obj\Debug\Proy.Classes.dll
+c:\Users\esramirez\Documents\Visual Studio 2015\Projects\Proy\Proy.Classes\obj\Debug\Proy.Classes.pdb
